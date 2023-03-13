@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mamdouh</h1>
+<div align=center> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%F7B813FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mamdouh+Hisham+%F0%9F%91%8B;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" /> 
+     </div> 
 <h3 align="center">I'm a 2rd year student in the faculty of computer and information science in Mansoura University. A passionate With Data Science and Competitive Programming.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamdouhhisham" alt="mamdouhhisham" /></a> </p>
